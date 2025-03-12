@@ -24,6 +24,8 @@ class ProductController extends Controller
         return view('create');
     }
 
+
+    
     /**
      * Store a newly created resource in storage.
      */
