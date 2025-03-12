@@ -23,6 +23,7 @@
     <label for="description">Tavsif:</label>
     <textarea name="description"></textarea><br>
 
+    
 
     @error('price')
     <p style="color: red">{{ $message }}</p>
